@@ -1,4 +1,0 @@
-uLink
-=====
-
-uLink Unity plugin
